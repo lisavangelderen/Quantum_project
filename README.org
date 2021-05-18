@@ -1,11 +1,10 @@
 * Introduction
 
-In this repository you will find our quantum programming project. Our project
-takes the Iris dataset and performs a KNN algorithm on it in three different
-ways. The first algorithm will be a classical one. The second will be a quantum
-computer simulation and the third an IBM quantum computer. 
+This repository contains our group's Quantum Programming project. This project
+performs a k-Nearest-Neighbours (kNN) algorithm on the Iris dataset in three different
+ways using a classical algorithm, a quantum algorithm simulation and an actual IBM quantum computer running the algorithm. 
 
-Based on the results, we will look at the difference in running time, coding
-complexity, and noise. 
+Based on the results, we examine the differences in running time, coding
+complexity, and noise between these three kNN algorithms. 
 
 
