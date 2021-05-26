@@ -4,7 +4,12 @@ This repository contains our group's Quantum Programming project. This project
 performs a k-Nearest-Neighbours (kNN) algorithm on the Iris dataset in three different
 ways using a classical algorithm, a quantum algorithm simulation and an actual IBM quantum computer running the algorithm. 
 
-Based on the results, we examine the differences in running time, coding
-complexity, and noise between these three kNN algorithms. 
+Based on the results, we try to examine the differences the difference in performance between the tree algorithms. 
+
+* Sources
+
+The code for hybrid algorithm is based on the code written by Daniel Kok, which can be found here: https://github.com/GroenteLepel/qiskit-quantum-knn
+The circuit run on IBM is based on the circuit build in the following paper: https://arxiv.org/abs/2002.10453
+
 
 
